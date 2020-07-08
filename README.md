@@ -5,8 +5,8 @@
 
 
 
-## Simple Alexnet
-- Trained Alexnet on CIFAR-10 dataset using Pytorch initialized with pre-trained weights
+## Orignal Model
+- Trained a deep convolutional neural network Alexnet on CIFAR-10 dataset using Pytorch initialized with pre-trained weights
 - 63% accuracy was obtained from the classification model after training for 10 epochs
 
 ## Modifications
