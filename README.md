@@ -1,6 +1,6 @@
 # Alexnet vs modified_Alexnet
 
-## Alexnet Aachitecture
+## Architecture
 <img src="/architecture/image.png" alt="Alexnet architecture"/>
 
 
